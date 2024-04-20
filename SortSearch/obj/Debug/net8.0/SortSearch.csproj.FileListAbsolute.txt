@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\bin\Debug\net8.0\SortSearch.exe
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\bin\Debug\net8.0\SortSearch.deps.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\bin\Debug\net8.0\SortSearch.runtimeconfig.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\bin\Debug\net8.0\SortSearch.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\bin\Debug\net8.0\SortSearch.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.sourcelink.json
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\refint\SortSearch.dll
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.pdb
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\SortSearch.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\CODEACADEMY2024\Alqoritm\SortSearch\SortSearch\SortSearch\obj\Debug\net8.0\ref\SortSearch.dll
